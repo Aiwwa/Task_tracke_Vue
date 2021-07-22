@@ -1,24 +1,6 @@
 # task_tracker
 
-## Project setup
-```
-npm install
-```
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71601381/126638969-f9826c7b-b645-45fb-a36e-98d3e8bfe141.gif)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
